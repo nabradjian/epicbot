@@ -1,0 +1,19 @@
+{
+  "name": "epicbot",
+  "version": "1.0.0",
+  "description": "Replies to mentions, replies, and DMs with epic.",
+  "main": "epicbot.js",
+  "scripts": {
+    "start": "node epicbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epic",
+    "epiccbot"
+  ],
+  "author": "Noah",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.68.0"
+  }
+}
